@@ -38,7 +38,7 @@ npm start
 - Extend functionalities by adding authentication (e.g., JWT) or additional features.
 
 ## Credits
-Clone Repo, fork it and give me a shout-out
+phil, dylan, aley, sidhuad
 
 ## License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code. https://choosealicense.com/licenses/mit/
