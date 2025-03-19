@@ -21,7 +21,7 @@
 
 ## Installation
 ```
-git clone https://github.com/sidhuad/SocialNetworkAPI.git
+git clone git@github.com:HMasese/social-networkAPI.git
 cd SocialNetworkAPI
 
 npm install
